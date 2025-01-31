@@ -1,0 +1,6 @@
+[pack]
+name = "mati-perf"
+version = "0.1.0"
+
+[enviroment]
+minecraft = "1.21.1"
